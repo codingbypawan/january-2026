@@ -1,0 +1,35 @@
+h1 {
+    color: blue;
+    font-size: 36px;
+    background-color: red;
+    text-align: center;
+    border-top: 5px solid black;
+    border-right: 10px solid green;
+    border-left: 10px solid green;
+    border-bottom: 5px solid black;
+    border-radius: 50px;
+    padding-top: 20px;
+}
+
+p {
+    text-align: justify;
+    margin: 100px 20px 20px 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.nature-image {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 5px solid black;
+    margin-left: 500px;
+}
+
+hr {
+    height: 10px;
+    background-color: green;
+}
